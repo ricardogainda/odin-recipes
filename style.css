@@ -1,11 +1,16 @@
 body {
     background-color: mediumspringgreen;
+    font-family: 'Helvetica', 'Arial', sans-serif;
 }
 
 img {
     border-radius: 50%;
     width: 100px;
     height: 100px;
+}
+
+h1 {
+    text-decoration: underline;
 }
 
 .recipeingredients li {
@@ -20,10 +25,6 @@ img {
     text-align: center;
 }
 
-.recipeingredients {
-    
-}
-
 .recipesteps {
-    text-align: center;
+
 }
